@@ -12,6 +12,7 @@ data_files.append(('share/' + package_name + '/resource', [
     'resource/turtlebot3_burger_example_map.yaml',
     'resource/my_turtlebot.urdf',
     'resource/ros2control.yml',
+    'resource/carto_params.lua',
     'resource/nav2_params.yaml'
 ]))
 
